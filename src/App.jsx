@@ -15,8 +15,8 @@ function App() {
       <Header></Header>
       <PriceOptions></PriceOptions>
       <LineChart></LineChart>
-      <PieChart></PieChart>
       <Phones></Phones>
+      <PieChart></PieChart>
     </>
   );
 }
